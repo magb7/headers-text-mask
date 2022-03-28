@@ -8,7 +8,7 @@ export const Forest = () => {
         <defs>
           <mask id="mask" x="0" y="0" width="100%" height="100%">
             <rect id="forest_alpha" x="0" y="0" width="100%" height="100%" />
-            <text x="50%" y="50%" className="forest_text">
+            <text x="50%" y="50%" className="text forest_text">
               Forest
             </text>
           </mask>

@@ -1,4 +1,4 @@
-import { Forest, Mountain } from "./components";
+import { Forest, Mountain, Path } from "./components";
 
 import "./App.css";
 
@@ -7,6 +7,7 @@ function App() {
     <>
       <Forest />
       <Mountain />
+      <Path />
     </>
   );
 }

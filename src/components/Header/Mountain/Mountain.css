@@ -14,10 +14,3 @@
   mix-blend-mode: multiply;
   color: white;
 }
-
-.mountain_text {
-  font-size: 10rem;
-  font-weight: 900;
-  letter-spacing: 10px;
-  text-transform: uppercase;
-}

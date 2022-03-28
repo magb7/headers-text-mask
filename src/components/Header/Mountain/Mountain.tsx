@@ -4,7 +4,7 @@ export const Mountain = () => {
   return (
     <header className="mountain_img">
       <div className="mountain_blur">
-        <p className="mountain_text">Mountain</p>
+        <p className="text">Mountain</p>
       </div>
     </header>
   );
