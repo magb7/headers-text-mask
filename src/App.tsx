@@ -1,13 +1,14 @@
-import { Forest, Mountain, Path } from "./components";
+import { Forest, Mountain, Path, Iceland } from "./components";
 
 import "./App.css";
 
 function App() {
   return (
     <>
-      <Forest />
+      {/* <Forest />
       <Mountain />
-      <Path />
+      <Path /> */}
+      <Iceland />
     </>
   );
 }
