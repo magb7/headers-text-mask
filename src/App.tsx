@@ -5,9 +5,9 @@ import "./App.css";
 function App() {
   return (
     <>
-      {/* <Forest />
+      <Forest />
       <Mountain />
-      <Path /> */}
+      <Path />
       <Iceland />
     </>
   );
